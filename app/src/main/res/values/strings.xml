@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">RegistrationDesignOnly</string>
+    <string name="button_next_phone">Далее</string>
+    <string name="textview_welcome">Введите номер телефона</string>
+    <string name="preset_countrycode">+7</string>
+    <string name="guideline_pin">Введите код из смс</string>
+    <string name="success">Авторизация прошла успешно</string>
+</resources>
